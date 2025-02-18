@@ -1,5 +1,7 @@
 # 🧠 Brain Rot Meter: Are You on the Verge of Becoming a Meme Zombie? 🤯
 
+Link to the app: https://huggingface.co/spaces/laibasif/brain_rot
+
 ![image](https://github.com/user-attachments/assets/186632b5-4d2c-487b-b9c5-77d94a674331)
 
 This Streamlit app helps you track your screen time and meme consumption to determine your 'Brain Rot' level 🧟 and provides fun, creative challenges to keep your mind fresh. 🌟
